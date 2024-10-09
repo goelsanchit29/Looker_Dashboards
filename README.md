@@ -1,2 +1,3 @@
 # Looker_Dashboards
  
+This repository contains a collection of Looker Studio Dashboards designed to provide powerful insights from raw datasets. Each dashboard leverages Looker Studio's visualization and reporting features to create dynamic, interactive, and visually appealing data summaries. These dashboards are ideal for users looking to streamline their data analysis, identify trends, and communicate key insights effectively.
