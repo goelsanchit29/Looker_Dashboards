@@ -1,7 +1,8 @@
 ## Looker_SaaS_Product_Sales_Dashboards
 
-https://lookerstudio.google.com/reporting/d682a637-b0d7-41ec-9496-68bff2062aa1
+<a href="https://lookerstudio.google.com/reporting/d682a637-b0d7-41ec-9496-68bff2062aa1" target="_blank">Click here and view the dashboard</a>
 ![Dashboard](SaaS_Product_Sales_Dashboard.PNG)
+https://lookerstudio.google.com/reporting/d682a637-b0d7-41ec-9496-68bff2062aa1
 
 ## Overview
 This repository contains a collection of Looker Studio Dashboards designed to provide powerful insights from raw datasets. Each dashboard leverages Looker Studio's visualization and reporting features to create dynamic, interactive, and visually appealing data summaries. These dashboards are ideal for users looking to streamline their data analysis, identify trends, and communicate key insights effectively.
