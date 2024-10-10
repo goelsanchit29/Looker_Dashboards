@@ -1,0 +1,10 @@
+Date,Memberships Sold,Type,Price,Training Packages Sold,Package Type,Equipment Used,Usage (hrs),Bookings,Peak Hour,Members in Peak Hour
+06-Mar-24,3,Premium,100,4,10 Sessions,Tredmil,2,12,8PM,45
+24-Jun-24,2,Premium,100,1,5 Sessions,Glute bands,5,25,8PM,35
+22-Apr-24,5,Basic,50,2,5 Sessions,Dumbbell,3,19,6 PM,36
+14-Jul-24,1,Basic,50,4,5 Sessions,Hand Gripper,5,20,6 PM,38
+28-Apr-24,5,Premium,100,2,10 Sessions,Jump Rope,4,17,8PM,43
+20-Sep-24,1,Basic,50,4,5 Sessions,Kettlebell,3,18,7 PM,40
+19-Mar-24,5,Premium,100,3,10 Sessions,Bench Press,5,16,6 PM,40
+10-Sep-24,4,Premium,100,3,5 Sessions,Weights,4,22,6 PM,29
+01-Oct-24,5,Premium,100,1,5 Sessions,Elliptical,2,21,7 PM,32
