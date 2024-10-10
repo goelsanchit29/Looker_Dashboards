@@ -2,7 +2,7 @@
 
 
 <a href="https://lookerstudio.google.com/reporting/30fc57a3-a652-4e37-b7bc-6fd0939a1ee9" target="_blank">Click here and view the dashboard</a>
-![Dashboard](Online_Course_Business_Sales_Dashboard.PNG)
+![Dashboard](Fitness_Studio_Sales_Dashboard.PNG)
 https://lookerstudio.google.com/reporting/30fc57a3-a652-4e37-b7bc-6fd0939a1ee9
 
 
