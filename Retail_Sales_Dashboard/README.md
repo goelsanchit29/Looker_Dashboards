@@ -1,8 +1,9 @@
 ## Looker_Retail_Sales_Dashboards
 
-https://lookerstudio.google.com/reporting/e133df46-f69c-40a9-a0b1-c3f2cefba997
-![Dashboard](Retail_Sales_Dashboard.PNG)
+[Click here and view the dashboard](https://lookerstudio.google.com/reporting/e133df46-f69c-40a9-a0b1-c3f2cefba997)
 
+![Dashboard](Retail_Sales_Dashboard.PNG)
+https://lookerstudio.google.com/reporting/e133df46-f69c-40a9-a0b1-c3f2cefba997
 
 ## Overview
 This repository contains a collection of Looker Studio Dashboards designed to provide powerful insights from raw datasets. Each dashboard leverages Looker Studio's visualization and reporting features to create dynamic, interactive, and visually appealing data summaries. These dashboards are ideal for users looking to streamline their data analysis, identify trends, and communicate key insights effectively.
